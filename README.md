@@ -23,8 +23,8 @@ README.md
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
+   git clone https://github.com/bryancalvarenga/spring-fridge.git
+   cd spring-fridge
    ```
 
 2. Execute o projeto com Maven:
